@@ -6,6 +6,9 @@ Atualmente trabalho como Devops na mkom, utilizando ferramentas como Aws, Elasti
 Estou estudando sobre Kubernetes e argocd 
 
 ---
+## Certificações
+![AWS Certificao AWS Cloud Practitioner](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
 
 ## 🚀 Minhas Skills
 
