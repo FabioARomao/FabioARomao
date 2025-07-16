@@ -7,7 +7,7 @@ Estou estudando sobre Kubernetes e argocd
 
 ---
 ## Certificações
-![AWS Certificao AWS Cloud Practitioner](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+![AWS Certificao AWS Cloud Practitioner]([https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png](https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png))
 
 
 ## 🚀 Minhas Skills
